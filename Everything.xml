@@ -1,0 +1,77 @@
+<Root>
+	<WorldBuilding>
+		<maps>
+			<map>
+				<name>
+					SampleName
+				</name>
+				<image>
+					image path
+				</image>
+			</map>
+		</maps>
+		<races>
+			<race>
+				<name>
+					Human
+				</name>
+				<attribute-mods>
+					<str>
+						1
+					</str>
+					<con>
+						1
+					</con>
+					<dex>
+						1
+					</dex>
+					<int>
+						1
+					</int>
+					<wis>
+						1
+					</wis>
+					<cha>
+						1
+					</cha>
+				</attribute-mods>
+				<abilities>
+					<ability>
+						name
+					</ability>
+					<ability>
+						other-name
+					</ability>
+				</abilities>
+				<description>
+					Humans are not speacilized to do anything.
+				</description>
+			</race>
+		</races>
+		<nations>
+			<nation>
+				<name>
+					Sylvanesti
+				</name>
+				<government>
+					<description>
+						The Sylvanesti elves are ruled by government xyz which is a blank.
+					</description>
+				</government>
+			</nation>
+		</nations>
+	</worldbuilding>
+	<items>
+		<treasure>
+		</treasures>
+		<weapons>
+		</weapons>
+		<potions>
+		</potions>
+		<scrolls>
+		</scrolls>
+		<packs>
+		</packs>
+	</items>
+</root>
+
